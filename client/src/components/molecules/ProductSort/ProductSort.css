@@ -1,0 +1,27 @@
+.product-sort {
+	background-color: #f2f2f2;
+	display: flex;
+	align-items: center;
+	margin-bottom: 1rem;
+	padding: 20px;
+}
+
+.product-sort__label {
+	margin-right: 0.5rem;
+}
+
+.product-sort__select {
+	font-weight: 600;
+	padding: 0.3rem 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	background-color: #fff;
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	position: relative;
+}
+
+.product-sort__select option {
+	padding: 0.3rem;
+}

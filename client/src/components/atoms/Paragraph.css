@@ -1,0 +1,33 @@
+.paragraph {
+	font-size: 0.955rem;
+	line-height: 1.5;
+	color: #333;
+}
+
+.paragraph.small {
+	font-size: 0.775rem;
+}
+
+.paragraph.large {
+	font-size: 1rem;
+}
+
+.paragraph.primary {
+	color: #007bff;
+}
+
+.paragraph.secondary {
+	color: #6c757d;
+}
+
+.paragraph.success {
+	color: #28a745;
+}
+
+.paragraph.warning {
+	color: #ffc107;
+}
+
+.paragraph.error {
+	color: #dc3545;
+}
