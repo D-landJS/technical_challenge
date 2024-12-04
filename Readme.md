@@ -13,7 +13,9 @@ Los cambios se harán en appsettings.json que esta en la capa de Application.
 
 #### Migraciones
 
-Las migraciones se ejecutan en Infrastructure.
+Las migraciones se ejecutan en Infrastructure con estas instrucciones:
+Add-Migration InitialCreate
+Update-Database
 
 ### React
 
